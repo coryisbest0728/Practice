@@ -3,3 +3,4 @@ npm-debug.log
 .project
 /node_modules
 /.idea
+/lib
