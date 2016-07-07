@@ -17,6 +17,8 @@
     "tests"
   ],
   "devDependencies": {
-    "requirejs": "^2.2.0"
+    "requirejs": "^2.2.0",
+    "text": "requirejs/text#^2.0.15",
+    "lungo": "^2.2.1"
   }
 }
